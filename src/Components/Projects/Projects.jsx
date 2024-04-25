@@ -40,7 +40,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://github.com/BhaveshxPurohit/Automated-Stock-Data-Management.git"
+                    href="https://github.com/khushishetty22/stock-data-pipeline.git"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -75,7 +75,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://github.com/BhaveshxPurohit/Analyzing-Social-Media-Sentiment.git"
+                    href="https://github.com/khushishetty22/Video-Game-Analysis.git"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -108,7 +108,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://github.com/BhaveshxPurohit/Exploring-Spotify-with-Natural-Language-Processing.git"
+                    href="https://github.com/khushishetty22/Spotify-Analysis.git"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -145,7 +145,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    href="https://github.com/BhaveshxPurohit/Analyzing-NYC-Green-Taxi-Trips.git "
+                    href="https://github.com/khushishetty22/Analyzing-NYC-Green-Taxi-Trips.git"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -179,7 +179,7 @@ export const Projects = () => {
                 </div>
                 <div>
                   <a
-                    //href="https://github.com/BhaveshxPurohit/PowerSC-Forecasting-Residential-Energy-Usage-Across-South-Carolina.git"
+                    href="https://github.com/khushishetty22/PowerSC.git"
                     target="_blank"
                     rel="noreferrer"
                   >
