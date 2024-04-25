@@ -58,41 +58,6 @@ export const Projects = () => {
               <div className="project_videocontainer">
                 <div>
                   <img
-                    src="https://raw.githubusercontent.com/BhaveshxPurohit/Analyzing-NYC-Green-Taxi-Trips/43b2b5cea9ef37fb15c2018492bb4bb76bdfb3b1/Asset.png"
-                    alt="Analyzing-NYC-Green-Taxi-Trips"
-                  />
-                </div>
-              </div>
-              <div className="project_information">
-                <h2>Stock Data Pipeline</h2>
-                <p>
-                In the era of rapid financial information exchange, our project introduces an automated ELT pipeline utilizing Python, Alteryx, and Azure services to revolutionize stock data processing. By automating the extraction, transformation, and loading of historical stock data from indexes and companies over the past decade, we ensure seamless integration with Power BI for advanced analysis and reporting. This integration spans several Azure cloud services and data processing tools, including Azure Functions for daily data retrieval, Alteryx for data cleansing and transformation, and Azure Synapse Analytics for efficient data loading and transformation. Our approach streamlines the monitoring and analysis of stock market trends and company financials, offering a comprehensive solution that enhances decision-making in the financial sector.
-                </p>
-                <div>
-                  <DiDatabase />
-                  <FaPython />
-                  
-                  
-                </div>
-                <div>
-                  <a
-                    href="https://github.com/BhaveshxPurohit/Analyzing-NYC-Green-Taxi-Trips.git "
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt">
-                      View Code
-                    </span>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="projects_container" data-aos="fade-right">
-            <div className="project">
-              <div className="project_videocontainer">
-                <div>
-                  <img
                     src="https://raw.githubusercontent.com/BhaveshxPurohit/Analyzing-Social-Media-Sentiment/c9b5eed9b6780bbf32b2febbc70112e9f9e7d571/Asset.png"
                     alt="Analyzing-Social-Media-Sentiment"
                    />
