@@ -35,7 +35,7 @@ export const Contact = () => {
               <VscGithub className="github" />
             </a>
             <a
-              href="mailto:khshetty@syr.edu"
+              href="mailto:khushisiya6@gmail.com"
               target="_blank"
               rel="noreferrer"
             >
@@ -51,7 +51,7 @@ export const Contact = () => {
                 <CgMail className="email" />
               </span>
               <span>
-                <p>khshetty@syr.edu</p>
+                <p>khushisiya6@gmail.com</p>
               </span>
             </div>
             <div className="iconsCont">
