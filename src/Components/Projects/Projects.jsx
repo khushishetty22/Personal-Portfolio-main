@@ -184,7 +184,7 @@ export const Projects = () => {
                     rel="noreferrer"
                   >
                     <span type="button" className="btns onbt">
-                      Upcoming Project
+                      View Code
                     </span>
                   </a>
                 </div>
