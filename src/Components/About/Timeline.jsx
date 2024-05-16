@@ -63,7 +63,7 @@ export const Timeline = () => {
               iConsult, Syracuse University
             </h4>
             <p data-aos="fade-right">
-            I optimized data integration using Python and AWS Glue, and enhanced data preparation with Excel. My notable project involved applying weighted k-means clustering in healthcare, improving data organization. I also created an R script for efficient data transfer to our database, gaining insights into innovative data management and strategic decision-making.
+            Optimized data integration using Python and AWS Glue, and enhanced data preparation with Excel. My notable project involved applying weighted k-means clustering in healthcare, improving data organization. I also created an R script for efficient data transfer to our database, gaining insights into innovative data management and strategic decision-making.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
