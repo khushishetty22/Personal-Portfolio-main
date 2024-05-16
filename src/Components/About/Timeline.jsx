@@ -133,7 +133,7 @@ export const Timeline = () => {
               Autowebbed Technologies 
             </h4>
             <p data-aos="fade-right">
-            I developed two modules to process over 200,000 Big Data records, leveraging SQL and ETL for data cleaning and transformation. This enabled deep analysis and the creation of insightful PowerBI reports and visualizations, guiding data-driven decisions. I facilitated cross-functional collaboration, organizing meetings across engineering, marketing, and sales to align on objectives, gathering requirements, and sharing findings, thus fostering teamwork towards shared goals.
+            Developed modules, leveraging SQL and ETL for data cleaning and transformation. This enabled deep analysis and the creation of insightful PowerBI reports and visualizations, guiding data-driven decisions. I facilitated cross-functional collaboration, organizing meetings across engineering, marketing, and sales to align on objectives, gathering requirements, and sharing findings, thus fostering teamwork towards shared goals.
             </p>
           </VerticalTimelineElement>
 
