@@ -63,7 +63,7 @@ export const Timeline = () => {
               iConsult, Syracuse University
             </h4>
             <p data-aos="fade-right">
-            Optimized data integration using Python and AWS Glue, and enhanced data preparation with Excel. My notable project involved applying weighted k-means clustering in healthcare, improving data organization. I also created an R script for efficient data transfer to our database, gaining insights into innovative data management and strategic decision-making.
+    
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -98,7 +98,7 @@ export const Timeline = () => {
               Syracuse University
             </h4>
             <p data-aos="fade-right">
-            Pursuing Masters of Science in Information Systems
+            Masters of Science in Information Systems
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -133,7 +133,7 @@ export const Timeline = () => {
               Autowebbed Technologies 
             </h4>
             <p data-aos="fade-right">
-            Developed modules, leveraging SQL and ETL for data cleaning and transformation. This enabled deep analysis and the creation of insightful PowerBI reports and visualizations, guiding data-driven decisions. I facilitated cross-functional collaboration, organizing meetings across engineering, marketing, and sales to align on objectives, gathering requirements, and sharing findings, thus fostering teamwork towards shared goals.
+            
             </p>
           </VerticalTimelineElement>
 
@@ -290,8 +290,8 @@ export const Timeline = () => {
             >
               Mumbai University
             </h4>
-            <p data-aos="fade-right">
-            I earned a Bachelor of Engineering in Electronics and Telecommunications from the Mumbai University, immersing myself in coursework covering Database Management Systems, Data Structures and Algorithms, as well as Cloud Computing. 
+            <p data-aos="fade-right">    
+            Bachelor of Engineering in Electronics and Telecommunications
             </p>
           </VerticalTimelineElement>
 
